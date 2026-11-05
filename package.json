@@ -1,0 +1,15 @@
+{
+  "name": "laboratorio-12-tc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Programación funcional y cálculo lambda - Laboratorio 12",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "demo": "node demo.js",
+    "problema2": "node problema2.js",
+    "problema3": "node problema3.js",
+    "problema4": "node problema4.js",
+    "test": "node --test"
+  }
+}

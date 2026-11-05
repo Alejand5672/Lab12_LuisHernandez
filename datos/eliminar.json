@@ -1,0 +1,4 @@
+{
+  "lista": ["rojo", "verde", "azul", "amarillo", "gris", "blanco", "negro"],
+  "eliminar": ["amarillo", "cafe", "blanco"]
+}
